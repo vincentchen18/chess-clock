@@ -548,7 +548,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Kicad Files.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
