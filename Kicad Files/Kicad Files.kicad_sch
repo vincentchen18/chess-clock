@@ -8901,7 +8901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
+		(property "Footprint" "clock:BUZ-TH_BD12.0-P6.50-D0.8-FD"
 			(at 167.005 49.53 90)
 			(hide yes)
 			(show_name no)
