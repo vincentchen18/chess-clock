@@ -1,4 +1,4 @@
-Part,Qty,Unit,Vendor,Link
+Part,Qty,Unit price (USD),Vendor,Link
 HT16K33A-28SOP LED driver,1,0.7531,LCSC,https://www.lcsc.com/product-detail/C5444737.html
 FJ3461AH 0.36in 4-digit 7-seg common cathode,2,0.6709,LCSC,https://www.lcsc.com/product-detail/C10708.html
 100nF 0805 capacitor,20,0.0206,LCSC,https://www.lcsc.com/product-detail/C49678.html
